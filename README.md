@@ -1,5 +1,7 @@
 # Hsun Battery
 
+**This library is foe ESP32**
+
 ## How to use?
 
 * begin
