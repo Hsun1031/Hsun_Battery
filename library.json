@@ -1,0 +1,10 @@
+{
+    "name":      "Hsun Battery",
+    "version":   "1.0.0",
+    "platforms": "Espressif 32",
+    "example":   {
+        "name":  "battery",
+        "bace":  "example/battery",
+        "files": "/battery.cpp"
+    }
+}
