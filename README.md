@@ -8,7 +8,7 @@
   * return           0 -> Battery_ERROR, 1 -> Battery_OK.
 
 ```cpp
-    uint8_t begin(float maxVolt, float maxBatteryVolt);
+begin(float maxVolt, float maxBatteryVolt);
 ```
 
 * getBatteryVolt
@@ -16,7 +16,7 @@
   * return Battery Volt
 
 ```cpp
-    getBatteryVolt();
+getBatteryVolt();
 ```
 
 * getBatteryPercentage
@@ -24,11 +24,11 @@
   * return Battery Percentage
 
 ```cpp
-    getBatteryPercentage();
+getBatteryPercentage();
 ```
 
 * getBatteryValue
 
 ```cpp
-    getBatteryValue();
+getBatteryValue();
 ```
