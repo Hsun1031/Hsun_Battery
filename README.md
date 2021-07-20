@@ -3,7 +3,7 @@
 ## How to use?
 
 * begin
-  * maxVolt          input Volt => 3V (max: 3.3V)
+  * maxVolt          input Volt   => 3V (max: 3.3V)
   * maxBatteryVolt   Battery Volt => 12V
   * return           0 -> Battery_ERROR, 1 -> Battery_OK. */
 
